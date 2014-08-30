@@ -1,0 +1,34 @@
+h1{ 
+	padding: 5px;
+	color: red;
+	text-align: center;
+	background-color: white
+}
+body {
+	background-color: black;
+	background-image: url('mina folder/background.png');
+	background-repeat: repeat;	
+	background-position:center; 
+
+
+	
+}
+#pic{
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+	color: teal;
+	text-align: center;
+}
+h3{
+	color: slategrey;
+	text-align: center;
+}
+form{
+	color: skyblue;
+	margin: 0 auto;
+	width: 300px;
+}
+		

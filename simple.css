@@ -1,0 +1,28 @@
+#title{
+	background: -webkit-linear-gradient(darkblue,black);
+	text-align: center;
+	height: 50px;
+	border-radius: 15%;
+}
+body {
+	background-color: black;
+}
+#pic{
+	vertical-align: middle;
+	padding: 80px;
+	float: inherit;
+	border-radius: 15%;
+}
+#nav{
+	display: inline-block;
+	font-size: 30px;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+#nav li {
+	padding-top: 10px;
+	background: url('http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=41019377') no-repeat left 8px;
+	background-size: 15%;
+}
